@@ -9,7 +9,7 @@
 
 - 👨‍💻 I'm currently working on some course project
 - 🌱 I’m currently learning Back End with C#, .NET, Python, Java
-- 🌱 I’m currently learning Front End with Javascript, Typescript, ReactJS, Sass, Tailwindcss
+- 🌱 I’m currently learning Front End with  HTML, CSS, Javascript, Typescript, ReactJS, Tailwindcss
 - ✋ I’m looking for help with more development opportunity
 - ♥ My hobbies is play sport, swimming, listening to music and learning new things
 - 📫 How to reach me:
