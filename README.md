@@ -3,8 +3,6 @@
 📚 I'm a student at <a href="https://ou.edu.vn/">Ho Chi Minh Open University</a> in Ho Chi Minh City, VietNam.<br>
 🏃‍♂️ With all my passion, I'm on my way to becoming a full-stack developer.
 
-[![Facebook profile](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&labelColor=white&logo=facebook&)](https://www.facebook.com/bthah.tam)
-
 <h1> More about me </h1>
 
 <img src="https://media.giphy.com/media/NVQ9qp42uN13oog0nI/giphy.gif" align="right" width="200" />
