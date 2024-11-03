@@ -1,4 +1,4 @@
-<h1> Hi, I'm Thanh Tam(Stardust) 👋 </h1>
+<h1> Hi, I'm Thanh Tam (Stardust) 👋 </h1>
 
 📚 I'm a student at <a href="https://ou.edu.vn/">Ho Chi Minh Open University</a> in Ho Chi Minh City, VietNam.<br>
 🏃‍♂️ With all my passion, I'm on my way to becoming a full-stack developer.
