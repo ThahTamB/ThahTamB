@@ -1,21 +1,18 @@
-<h1> Hi, I'm Thanh Tam (Stardust) 👋 </h1>
+# Hi, I'm Thanh Tam (Stardust) 
 
-📚 I'm a student at <a href="https://ou.edu.vn/">Ho Chi Minh Open University</a> in Ho Chi Minh City, VietNam.<br>
-🏃‍♂️ With all my passion, I'm on my way to becoming a full-stack developer.
+![header banner](path/to/your-header.gif)
 
-<h1> More about me </h1>
+## 🎓 About Me
+I specialize in software development with a focus on building scalable Web and Mobile Applications. Leveraging clean architecture, modern frameworks, and user-centered design, I help teams deliver impactful solutions that drive value and innovation.
 
-<img src="https://media.giphy.com/media/NVQ9qp42uN13oog0nI/giphy.gif" align="right" width="200" />
+  ![Profile views](https://komarev.com/ghpvc/?username=ThahTamB&label=Profile%20views&color=0e75b6&style=flat)
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ThahTamB?label=Followers&style=social"> •
+  <img src="https://img.shields.io/github/stars/ThahTamB?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
+  <a href="https://github.com/sponsors/GovindSingh9447"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 
-- 👨‍💻 I'm currently working on some course project
-- 🌱 I’m currently learning Back End with C#, .NET, Python, Java
-- 🌱 I’m currently learning Front End with  HTML, CSS, Javascript, Typescript, ReactJS, Tailwindcss
-- ✋ I’m looking for help with more development opportunity
-- ♥ My hobbies is play sport, swimming, listening to music and learning new things
-- 📫 How to reach me:
-  + Email: thahtamb@gmail.com
-    
-![Profile views](https://komarev.com/ghpvc/?username=ThahTamB&label=Profile%20views&color=0e75b6&style=flat)
+<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+
+
 
 <h2>🛠️ Languages and Tools</h1>
 
@@ -31,4 +28,17 @@
 
 
 
+
+## 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThahTamB&theme=dark&show_icons=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=ThahTamB&theme=dark)
+
+## 📫 Contact
+- 📧 thahtamb@gmail.com
+
+---
+
+*“Curiosity is a superpower in tech and life.”*
+
+---
 
